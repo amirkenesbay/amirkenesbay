@@ -17,15 +17,15 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="intellijidea-icon" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="spring-icon" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="css3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="database" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="hibernate" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Java" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/java-icon.png" />
+<img align="left" alt="intellijidea-icon" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/intellijidea-icon.png" />
+<img align="left" alt="spring-icon" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/spring-icon.png" />
+<img align="left" alt="html5" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/html5.png" />
+<img align="left" alt="css3" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/css-icon.png" />
+<img align="left" alt="js" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/js-icon.png" />
+<img align="left" alt="database" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/database-icon.png" />
+<img align="left" alt="postgresql" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/postgresql-icon.png" />
+<img align="left" alt="hibernate" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/hibernate-icon.png" />
 
 <br />
 <br />
