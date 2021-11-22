@@ -1,6 +1,6 @@
 ### Hi there, I'm Amir - [Software developer][website] 👋 
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="Amir Kenesbay">
+<img src="https://github.com/amirkenesbay/amirkenesbay/blob/main/header-image.jpg" alt="Amir Kenesbay">
 
 - 🌱 I’m currently learning Java and Spring Framework
 - 👯 I’m looking to collaborate with other developers
