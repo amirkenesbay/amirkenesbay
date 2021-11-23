@@ -1,6 +1,6 @@
 ### Hi there, I'm Amir - [Software developer][website] 👋 
 
-<img src="https://github.com/amirkenesbay/amirkenesbay/blob/main/header-image.jpg" alt="Amir Kenesbay">
+[<img src="https://github.com/amirkenesbay/amirkenesbay/blob/main/header-image.jpg" alt="Amir Kenesbay">][website]
 
 - 🌱 I’m currently learning Java and Spring Framework
 - 👯 I’m looking to collaborate with other developers
@@ -9,25 +9,25 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="website" width="22px" src="https://www.pngkit.com/png/detail/205-2055556_free-icons-png-web-icon-round-png.png" />][website]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />][instagram]
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Java" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/java-icon.png" />
-<img align="left" alt="intellijidea-icon" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/intellijidea-icon.png" />
-<img align="left" alt="spring-icon" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/spring-icon.png" />
-<img align="left" alt="html5" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/html5.png" />
-<img align="left" alt="css3" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/css-icon.png" />
-<img align="left" alt="js" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/js-icon.png" />
-<img align="left" alt="database" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/database-icon.png" />
-<img align="left" alt="postgresql" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/postgresql-icon.png" />
-<img align="left" alt="hibernate" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/hibernate-icon.png" />
-<img align="left" alt="git" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/git-icon.png" />
-<img align="left" alt="github" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/github-icon.png" />
+[<img align="left" alt="Java" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/java-icon.png" />][website]
+[<img align="left" alt="intellijidea-icon" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/intellijidea-icon.png" />][website]
+[<img align="left" alt="spring-icon" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/spring-icon.png" />][website]
+[<img align="left" alt="html5" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/html5.png" />][website]
+[<img align="left" alt="css3" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/css-icon.png" />][website]
+[<img align="left" alt="js" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/js-icon.png" />][website]
+[<img align="left" alt="database" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/database-icon.png" />][website]
+[<img align="left" alt="postgresql" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/postgresql-icon.png" />][website]
+[<img align="left" alt="hibernate" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/hibernate-icon.png" />][website]
+[<img align="left" alt="git" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/git-icon.png" />][website]
+[<img align="left" alt="github" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/github-icon.png" />][website]
 
 <br />
 <br />
