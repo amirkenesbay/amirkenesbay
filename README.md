@@ -26,6 +26,8 @@
 <img align="left" alt="database" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/database-icon.png" />
 <img align="left" alt="postgresql" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/postgresql-icon.png" />
 <img align="left" alt="hibernate" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/hibernate-icon.png" />
+<img align="left" alt="git" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/git-icon.png" />
+<img align="left" alt="github" width="26px" src="https://github.com/amirkenesbay/amirkenesbay/blob/main/icons/github-icon.png" />
 
 <br />
 <br />
