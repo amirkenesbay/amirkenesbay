@@ -1,4 +1,4 @@
-### Hi there, I'm Amir - [Software developer][website] 👋 
+### Hi there, I am Amir - [Software developer][website] 👋 
 
 [<img src="https://github.com/amirkenesbay/amirkenesbay/blob/main/header-image.jpg" alt="Amir Kenesbay">][website]
 
