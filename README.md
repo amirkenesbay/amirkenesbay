@@ -35,17 +35,29 @@
 
 
 For the last year I have been studying the Java programming language at the Runtime Programming Center. I have good knowledge of the language and experience in writing client-server applications. What I studied and what I'm good at:
+
 1️⃣ Java programming language (you can look at projects on github)
+
 2️⃣ Data structures and algorithms (I can tell you about data structures and write 5 algorithms for sorting an array, I'm also familiar with other algorithms: binary search, linear search)
+
 3️⃣ HTML and CSS (I made 6 good sites, you can look at projects on github)
+
 4️⃣ SQL (worked with PostgreSQL and can navigate in mySQL as well)
+
 5️⃣ Git (Github, BitBucket, Gitlab)
+
 6️⃣ Maven (familiar with this tool for managing and building projects, I can also work with dependencies and know the life cycle of a project)
+
 7️⃣ Protocols HTTP / HTTPS (I know what is the difference between http and https, worked with http (s) methods)
+
 8️⃣ Patterns / design patterns (I know what types of patterns there are, I'm familiar with such design patterns as: Singleton, Factory, Prototype
+
 9️⃣ Familiar with the architecture of the software (client-server architecture, components of the client-server architecture)
+
 1️⃣0️⃣ MVC (familiar with this principle of building the architecture of a large application, in which it is divided into 3 parts)
+
 1️⃣1️⃣ Spring Framework (Spring boot)
+
 1️⃣2️⃣ Agile, Scrum, Kanban
 
 [website]: http://kamir.runtime.kz/
