@@ -2,7 +2,7 @@
 
 [<img src="https://github.com/amirkenesbay/amirkenesbay/blob/main/header-image.jpg" alt="Amir Kenesbay">][website]
 
-- 🌱 I’m currently learning Java and Spring Framework
+- 🌱 I’m currently working with Java and Spring Framework
 - 👯 I’m looking to collaborate with other developers
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
